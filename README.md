@@ -1,6 +1,6 @@
-# HealthMate-AI-Chatbot-for-Diabetes-Prediction
+# Blood-Sugar-AI-Chatbot-for-Diabetes-Prediction
 
-**HealthMate** is an interactive **AI-powered chatbot** built with **Streamlit** that predicts the risk of diabetes using health parameters such as glucose level, BMI, blood pressure, age, etc.  
+**Blood-Sugar** is an interactive **AI-powered chatbot** built with **Streamlit** that predicts the risk of diabetes using health parameters such as glucose level, BMI, blood pressure, age, etc.  
 It is trained on the **PIMA Indians Diabetes Dataset** using a Random Forest Classifier.
 
 ---
@@ -15,7 +15,7 @@ It is trained on the **PIMA Indians Diabetes Dataset** using a Random Forest Cla
 ---
 
 ## 📂 Project Structure
-HealthMate/
+Blood-Sugar/
 │
 ├── data/ # dataset
 ├── model/ # saved model (.pkl)
@@ -24,8 +24,8 @@ HealthMate/
 
 ## 🚀 Live Demo
 
-Explore the HealthMate Chatbot here:  
-👉 [https://healthmate-ai-chatbot-for-diabetes-prediction-kxneovmdzkoxccu8.streamlit.app/](https://healthmate-ai-chatbot-for-diabetes-prediction-kxneovmdzkoxccu8.streamlit.app/)
+Explore the Blood-Sugar Chatbot here:  
+👉 [https://Blood-Sugar-ai-chatbot-for-diabetes-prediction-kxneovmdzkoxccu8.streamlit.app/](https://Blood-Sugar-ai-chatbot-for-diabetes-prediction-kxneovmdzkoxccu8.streamlit.app/)
 
 
 ## Preview
@@ -51,6 +51,4 @@ Explore the HealthMate Chatbot here:
 
 👨‍🎓 Author
 
--Algin Farrell
--📧 [alginfarrell82@gmail.com]
--🔗 https://www.linkedin.com/in/algin-farrell-16681432b
+
